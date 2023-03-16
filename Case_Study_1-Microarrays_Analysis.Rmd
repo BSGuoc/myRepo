@@ -1,6 +1,6 @@
 ---
 title: "ProbandoStatistical Analysis of Microarray data"
-author: "Ahora soy yo)"
+author: "Beatriz Spa Gómez"
 date: "March 29, 2020"
 output:
  prettydoc::html_pretty:
